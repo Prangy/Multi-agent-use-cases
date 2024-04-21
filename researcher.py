@@ -13,10 +13,10 @@ from typing import Annotated, Any, Dict, List, Optional, Sequence, TypedDict
 
 # Set environment variables
 # Initialize model with your OpenAI API key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-*******************************"
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 os.environ["LANGCHAIN_PROJECT"] = "laanggraph practice"
-os.environ["LANGCHAIN_API_KEY"] = "ls__8aff57aa62a54fea8768ad921350e898"
+os.environ["LANGCHAIN_API_KEY"] = "ls__****************************"
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
 
 # Initialize model
